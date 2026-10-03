@@ -6,3 +6,5 @@ from tools.flight_tool import search_flights
 
 res=search_flights("Plan a 5 days Japan trip")
 print(res)
+
+
